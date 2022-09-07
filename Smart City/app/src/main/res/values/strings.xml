@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartCity</string>
+    <string name="smart_city_en">SmartCity</string>
+    <string name="smart_city_cn">智慧城市</string>
+    <string name="enter_homepage">进入主页</string>
+    <string name="network_setting">网络设置</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">首页</string>
+    <string name="nav_party_construct">全部服务</string>
+    <string name="nav_service">智慧党建</string>
+    <string name="nav_news">新闻</string>
+    <string name="nav_personal_center">个人中心</string>
+    <string name="Skip">跳过</string>
+    <string name="this_is_news_tablelayout_fragment">This is News TableLayout Fragment.</string>
+    <string name="news_details">新闻详情</string>
+    <string name="news_detail_title">这里是新闻标题</string>
+    <string name="news_detail_type">分类:</string>
+    <string name="news_detail_like_num">点赞人数:</string>
+    <string name="news_detail_read_num">浏览人数:</string>
+</resources>
